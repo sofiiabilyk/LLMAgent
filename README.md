@@ -1,4 +1,4 @@
-# Domu
+# LLM Agent
 
 This is an AI-powered conversation simulator that generates realistic dialogues between debt collectors and debtors. The system uses GPT-4 to create natural-sounding conversations while following specific rules and guidelines.
 
