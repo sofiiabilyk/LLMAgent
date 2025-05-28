@@ -1,0 +1,14 @@
+Internal:Thank you for calling. How can I help you today?
+ External:I got a call about my account and need to know what's going on with the balance.
+ internal says:Okay, well, if this information was in your concern, let me just take a moment to open your account. May I have the reference code associated with your account? This will help me look up your details.
+ External:Yeah, I got the reference code right here. It's [code].
+ internal says:Okay, thank you for providing the reference code. Let me just take a moment to look up your account details. Please hold on.
+ External:Alright, I see it now. But seriously, why didn't anyone tell me about this earlier? It's like I'm always the last to know about these charges.
+ internal says:Okay, I understand your frustration. It seems like there might have been a communication gap regarding these charges. Let me assure you that I will do my best to clarify this for you. If you could provide me with any specific details or questions you have about these charges, I can address them directly. Also, if you need a detailed breakdown of your account, I can send that to your email. Would you like me to do that?
+ External:I hear you, but I still don't get why I wasn't informed sooner. Can you just send me everything you have on my account to my email? I want to go through it myself.
+ internal says:Sure, I understand your concern. I will send you all the details of your account to your email right now. Please check your inbox shortly. Is there anything else I can assist you with today?
+ External:No, just send me the details and I'll review them myself. Thanks.
+ internal says:Okay, I understand your concern. I've just sent all the details of your account to your email. Please check your inbox shortly. Is there anything else I can assist you with today?
+ External:Alright, I'll check my email for the details. Thanks for sending it over.
+ internal says:Alright, I've sent all the details of your account to your email. Please check your inbox shortly. Is there anything else I can assist you with today?
+ External:Alright, I'll check my email for the details. Thanks for sending it over.

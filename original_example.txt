@@ -1,0 +1,283 @@
+Conversation 1
+External: I wanted to get some information about my account, the balance.
+Internal: Hello, thank you for calling. This is [name]. How can I help you today?
+Internal: Sure, give me just one moment. So, can I pull up the account?
+External: Huh.
+Internal: One moment.
+Internal: Okay, can you please tell me your first and last name?
+External: [name] [name] [name] [name]
+Internal: I'm sorry, ma'am, is it? I can hear you?
+External: [name] [name]
+External: Last name is [name] [name] [name]
+Internal: Okay, thank you, ma'am. And can you please tell me your physical address?
+External: [location] [GEO] [postal code]
+Internal: I'm sorry, it again, please.
+External: I am speaking loud as I can, ma'am. I don't want the whole public to hear my address and everything, so again, it's [location]
+External: Can you hear me?
+Internal: Yes, the city and the zip code, please.
+External: [location] [postal code]
+Internal: Thank you, and your email address?
+External: [user info]
+Internal: Thank you, and the name was for a place of employment.
+External: [location]
+Internal: Thank you, Miss [name]. How can I help you, ma'am?
+External: So I already asked, told you how you can help me after you asking 10 questions. I'm sorry to get an attitude, but you asked your questions and you didn't even wonder what mine was. I need the balance on my account, please.
+Internal: Sure ma’am. I'm sorry, this was only for verification process. So this account is by the full lis agreement.
+External: Girl, you don't have to keep telling me that. I've heard you 4 times.
+Internal: Everything is in the contract, Miss … I can send you a copy of the list.
+External: I don't have it with me right now, ma'am. Gosh… yeah, send me the contract again, please.
+Internal: Sure, give me one moment.
+Internal: Everything is in the contract, miss. You didn't complete the early purchase option. Normally the account passes by the full lease agreement.
+Internal: Okay, I already sent the contract, ma'am. That's where it shows all the payments about the leasing fees. So basically, you're missing four more payments, so you can complete your balance.
+External: Alright.
+
+
+
+Conversation 2
+Internal: Hello, thank you for calling Nike. This is [name]. Can I assist you today?
+External: I called yesterday and tried to pay off my account balance. They said I'd get an email receipt, but I never got one.
+Internal: Can you provide your name?
+External: [name]
+Internal: Okay. Let me just do a quick verification. Can you give me your home address?
+External: [location]
+Internal: Place of employment?
+External: [company]
+Internal: Email address?
+External: [user info]
+Internal: Can you confirm your email again?
+External: [user info]
+Internal: Okay, so you’re talking about the payment confirmation.
+External: Yes, the agent said I’d get a payout letter in 7–10 business days and an email receipt within an hour.
+Internal: Your payment was posted. The account will be marked "payout," and the receipt will be sent once that’s done.
+External: Got it.
+
+Conversation 3
+Internal: Good afternoon, this is [name], how may I assist you?
+External: Yes ma’am. Who am I speaking with?
+Internal: [name]
+External: Hi, this is Mr. [name]. I’m calling about my auto pay.
+Internal: Before we proceed, may I verify your address and email?
+External: [address and email]
+Internal: Thank you.
+External: I talked to someone about our auto pay getting canceled. I’m trying to get it reinstated.
+Internal: I see you have a payment scheduled for May 3rd for $246.70.
+External: Okay.
+Internal: Would you like to continue auto-debit with the same card?
+External: Yes.
+Internal: Okay, I’ll turn that back on. Do you have any other questions?
+External: No ma’am. Thank you very much.
+Internal: Thanks for choosing [company], have a great day.
+External: You too. Bye.
+
+
+Conversation 4
+Internal: Hello, thank you for calling. This is [name]. How can I help you?
+External: Yes, sir. Hi, I applied through the FTO website. They told me I was approved for $9000, but I haven't received any email since Friday.
+Internal: I'm sorry about the situation. Can I have your first and last name?
+External: [name]
+Internal: Thank you. May I have your email?
+External: [user info]
+Internal: And your service address?
+External: [address]
+Internal: What is your city, state, and zip code?
+External: [city, state, zip]
+Internal: What’s your place of employment?
+External: [company]
+Internal: I see your application was approved, but no contract was created. You need to contact FL so they can send the offer.
+External: What's their number?
+Internal: [number] — Let them know you've been approved and need to proceed.
+External: Okay, I’ll call them now. Thank you.
+Internal: You're welcome. Any other questions?
+External: No, sir.
+Internal: Have a wonderful day.
+External: Bye.
+
+Conversation 5
+Internal: Hello, this is [name]. How can I help you?
+External: Okay, how are you? Good afternoon. I just want to place an order for an AC unit and be clear about how the program works.
+Internal: Okay, what specifically do you want to know?
+External: What happens after the payments are done?
+Internal: It’s a lease-to-own program. Once the payments are done, the item is yours.
+External: Oh, I see. So it's basically like financing?
+Internal: You're leasing it, yes, but it's lease-to-own.
+External: Okay, just wanted to make sure. Thank you very much.
+Internal: Any other questions?
+External: No, thank you.
+Internal: Have a great day.
+External: You too.
+
+Conversation 6
+Internal: Hello, my name is [name]. How can I help you?
+External: Somebody’s calling me from this number, and I don’t know why.
+Internal: You're calling kilos at the moment.
+External: I need assistance with my account.
+Internal: Do you remember making an account with us?
+External: No.
+Internal: May I have your first and last name?
+External: [name]
+Internal: Let me check if we have records. One moment.
+Internal: I see some records. We have a contract with you.
+External: I returned the furniture already. It was no good. I told several people.
+Internal: So you returned it yourself?
+External: Yes, my nephew returned it for me.
+Internal: We don’t have a record of that return.
+External: I’m not paying anything. I don’t even have it anymore.
+Internal: You’ll need to ask your nephew to call us and confirm the return.
+External: Okay, I’ll call him and tell him to call you.
+Internal: Thank you.
+External: Okay, bye.
+Internal: Bye.
+
+Conversation 7
+Internal: Hello, thank you for calling Nike. This is [name]. Can I assist you today?
+External: I called yesterday to pay off my account. They told me I’d get a receipt by email, but I haven’t gotten it.
+Internal: Can you please provide your name?
+External: [name]
+Internal: Before we continue, I need to verify a few details. Can you provide your full home address?
+External: [address and zip code]
+Internal: And your place of employment?
+External: [company]
+Internal: Lastly, can you confirm your email address?
+External: [user info]
+Internal: Great. You mentioned the receipt…
+External: Yes, the lady I spoke to said the payment would post in 3–4 business days and I’d get a close-out letter in 7–10 business days.
+Internal: That’s correct. Once the payment posts, your account will be marked “payout,” and the email will follow.
+External: So I won’t get a receipt until then?
+Internal: Correct. We can’t send a receipt until the payment posts.
+External: Got it.
+Internal: Is there anything else I can help with?
+External: No, sir.
+Internal: Thank you. You may receive a request to rate this call.
+External: Sure.
+Internal: Have a great day.
+External: You too.
+
+Conversation 8
+External: Hello.
+Internal: Hello, my name is [name]. I’m calling back in response to your voicemail. How can I help you?
+External: I’m confused why I’m being charged over $1000 more than what we bought.
+External: We bought something for $800 using OKennis, but now it’s almost $1800.
+Internal: Let me check. Can I have the phone number associated with your account?
+External: [phone]
+Internal: May I have your first and last name?
+External: [name]
+Internal: Thanks. Can you confirm your full address?
+External: [address, zip]
+Internal: And your place of employment?
+External: [company]
+Internal: Email address?
+External: [user info]
+Internal: Thank you. Your balance is currently $309.20, with two payments left.
+External: But the original purchase was $800 — where is the extra $1000 coming from?
+Internal: Because you didn’t pay the $800 before November 3, 2024, the contract converted to full lease terms.
+External: But we never received the contract. We were told it would auto-deduct.
+Internal: I’m sorry. I’ll send you the contract now.
+External: It’s too late — the $1000 is gone.
+Internal: You could have called us earlier to clarify.
+External: So it’s just $1000 of late charges?
+Internal: It’s not late charges — it’s because of the leasing agreement terms.
+External: This feels like a scam.
+Internal: All this is on the contract.
+External: A contract we never received.
+Internal: You could always request it.
+External: So nothing can be done?
+Internal: I’m sorry. Is there anything else I can help you with?
+External: No.
+Internal: Thank you for calling. Bye.
+External: Bye.
+
+Conversation 9
+Internal: Hello, this is [name].
+External: Yes, I want information about my husband's account.
+Internal: Okay, can you provide his phone number?
+External: [phone]
+Internal: One moment. Can you tell me your name?
+External: [name]
+Internal: And your husband’s full name?
+External: [name]
+Internal: Can I confirm your address, city, and zip code?
+External: [location, zip]
+Internal: Thank you. What’s your email address?
+External: [user info]
+Internal: We have a different email on file.
+External: It might be my husband’s.
+Internal: And his place of employment?
+External: [company]
+Internal: That doesn’t match. Can you confirm his date of birth?
+External: 9/30/1987
+Internal: Okay. We need to update the employer info. What’s the correct name?
+External: [name]
+Internal: Got it. How can I help you today?
+External: I want to know the balance.
+Internal: You’ve made 42 of 48 payments. You have 5 left. Total balance: $522.45.
+External: Okay. And what’s the monthly payment?
+Internal: $104.49 every 14 days.
+External: Okay. Thanks.
+Internal: Anything else I can help you with?
+External: No, that’s all.
+Internal: Thank you. You may receive a survey. Have a good day.
+External: Thank you. Bye.
+Internal: Bye-bye.
+
+Conversation 10
+Internal: Hello, this is [name]. How may I assist you?
+External: I want to make a payment plan.
+Internal: Sure, but first I need to verify your identity. Can you provide your full name?
+External: [name]
+Internal: Thank you. What is your full address?
+External: [address, city, zip]
+Internal: And your employer's name?
+External: [company]
+Internal: Do you have a contact number for your residence?
+External: No, I don’t.
+Internal: That’s okay. What is your email address?
+External: [user info]
+Internal: Thank you. Did you receive the items already?
+External: Yes, I received them last Saturday.
+Internal: Great. You have 120 days for early purchase. Your contract has 24 payments of $97.38 totaling $2,337. If you use early purchase, the total is $1,163.57.
+External: I want to set it up to pay over 4 months.
+Internal: You’d need to make additional payments of $31.91 per cycle, or one final payment at the end.
+External: I’d rather pay extra each month.
+Internal: In that case, call us monthly to add those payments.
+External: Okay, so I’ll call again on the 25th.
+Internal: Yes, and we’ll confirm if your first payment date stays the same.
+External: Alright. Thanks!
+Internal: You’re welcome. You’ll receive a link to rate our service.
+External: Okay, thank you!
+
+Conversation 11
+Internal: Hello, thank you for calling. This is [name]. How can I help you?
+External: Yes ma'am. Who am I speaking with?
+Internal: This is [name].
+External: I'm Mr. [name], calling about my auto-pay. It got canceled and I want to reinstate it.
+Internal: Let’s verify your address and email.
+External: [address and user info]
+Internal: Thank you. You have a payment scheduled for $246.70 on May 3rd.
+External: Can we ensure it comes from the same debit card automatically?
+Internal: Yes, it's set for May 3rd and the next will be June 3rd.
+External: Perfect. Please keep it that way.
+Internal: Done. Any other concerns?
+External: No, thank you for your help.
+Internal: You’re welcome. Have a great day.
+External: You too. Bye.
+Internal: Bye.
+
+Conversation 12
+Internal: Hello, this is [name]. How can I assist you?
+External: Someone’s been calling me from this number.
+Internal: You’re calling [company]. Do you have an account with us?
+External: I don’t think so.
+Internal: May I have your name?
+External: [name]
+Internal: Let me check our system. One moment.
+Internal: I see a contract associated with you.
+External: I returned the item. It wasn’t good. I told multiple people.
+Internal: How did you return it?
+External: My nephew returned it for me.
+Internal: We don’t have any record of a return. You’re still responsible for the account.
+External: I don’t have the item. I’m not paying for it.
+Internal: Please have your nephew contact us so we can update the account.
+External: Okay, I’ll tell him.
+Internal: Thank you.
+External: Bye.
+Internal: Bye.

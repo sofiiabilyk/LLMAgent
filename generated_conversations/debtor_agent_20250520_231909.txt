@@ -1,0 +1,14 @@
+Internal: Thank you for calling. How can I help you today?
+ External:Yeah, I need to know why my account shows an extra charge of $200 that I didn't authorize.
+ internal says:Okay, well, let me just a moment before I can open your account. May I have the reference code associated with your account? Because with the information I have, I couldn't find an account. Once I have that, I can look into the extra charge for you.
+ External:Yeah, it's [reference code].
+ internal says:Okay, thank you for providing the reference code. Let me take a moment to look up your account details. Please hold on while I retrieve the information for you.
+ External:Alright, but I still don't understand why this charge appeared out of nowhere. Can you explain how this happened?
+ internal says:Okay, thank you for holding. I've reviewed your account details, and it seems the extra charge of $200 is related to a late fee applied due to a missed payment deadline. This information should be outlined in your contract. If you have any further questions or need assistance with payment options, I'm here to help. Would you like to discuss a payment plan or any other concerns you might have?
+ External:Okay, so you're saying it's a late fee? But I never got any notice about a missed payment. Can you send me proof or something? This just sounds like a way to squeeze more money out of me.
+ internal says:Oh, I understand your concern. Let me assure you that I can send you the documentation that outlines the late fee and the missed payment. This should clarify the situation for you. Please give me a moment to arrange that. Would you like it sent to your email on file?
+ External:Yeah, send it to my email. But honestly, this whole thing feels like a rip-off. I need to see that proof ASAP.
+ internal says:I understand your frustration, and I apologize for any inconvenience this has caused. I'll make sure to send the documentation regarding the late fee and the missed payment to your email right away. This should provide clarity on the charges. Please let me know if there's anything else I can assist you with while you wait for the email.
+ External:Thanks for sending the email. I'll check it out, but this whole situation still feels off. If I find anything wrong, I'm coming back to dispute it.
+ internal says:Oh, I understand your frustration, and I apologize for any inconvenience this has caused. I'll make sure to send the documentation regarding the late fee and the missed payment to your email right away. This should provide clarity on the charges. Please let me know if there's anything else I can assist you with while you wait for the email.
+ External:Alright, I'll check the email and get back to you if something's off. But seriously, this whole thing just doesn't sit right with me.

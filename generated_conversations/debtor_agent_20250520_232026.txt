@@ -1,0 +1,16 @@
+Internal: Thank you for calling. How can I help you today?
+ External:I need to know why my payment is showing as overdue when I made it last week.
+ internal says:I understand your concern. Let's start by verifying your account details. Could you please provide me with your reference code? This will help me look up your account and see why your payment is showing as overdue.
+ External:Yeah, it's [reference code].
+ internal says:Thank you for providing your reference code. Let me retrieve your information now. Please give me a moment to look up your account and see why your payment is showing as overdue.
+ External:Alright, but I still don't get why it's overdue. I paid it on time.
+ internal says:Okay, thank you for your patience. I see that the payment you made last week hasn't been processed yet, which is why it's showing as overdue. Sometimes, there can be a delay in processing payments. Let me check if there's any specific issue with the transaction. Could you please confirm the payment method you used?
+ External:I used my credit card.
+ internal says:Okay, thank you for confirming that. I see the payment was made using your credit card. Sometimes, there can be a delay in processing credit card payments, which might be the reason it's showing as overdue. Let me check if there's any specific issue with the transaction on our end. Please hold on for a moment while I look into this for you.
+ External:Okay, but if I paid last week, why is it still not processed? This delay is causing me issues.
+ internal says:Okay, I understand your frustration. Sometimes these delays can be quite inconvenient. Let me verify if there's any specific issue on our end that's causing this delay with your credit card payment. Please hold on for just a moment while I check this for you.
+ External:So, when can I expect this to be resolved? I can't keep dealing with these delays.
+ internal says:I apologize for the delay in processing your payment. Sometimes these things happen due to technical issues or system updates. I will escalate this matter to our payments team to ensure it gets resolved as quickly as possible. You should see the payment reflected on your account within the next few business days. Is there anything else I can assist you with today?
+ External:No, that's all for now. I'll wait to see if the payment reflects in a few days. Thanks.
+ internal says:I apologize for the inconvenience. Sometimes these delays can be frustrating. I will escalate this issue to our payments team to ensure it gets resolved as quickly as possible. You should see the payment reflected on your account within the next few business days. Is there anything else I can assist you with today?
+ External:Alright, I'll wait for the update. Thanks for your help.

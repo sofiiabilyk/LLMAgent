@@ -1,0 +1,490 @@
+CONVERSATION 1 :
+00:02	External	 	Hello.
+00:06	External	 	Hello.
+00:19	External	 	Hello.
+00:26	Internal	 	Hello, my name is. I'm giving you a call and record, receive a voicemail from your request, and call back. So, I would like to know, how can I help you?
+00:34	External	 	Yeah, so looking at
+00:39	External	 	my like account statements and stuff, I am confused why I'm being charged $1000 over what we actually bought
+00:52	External	 	using O Kennis, So that's why I'm calling because it seems
+01:01	External	 	really ridiculous.
+01:08	Internal	 	Okay, well if this information was in your concern, basically, now, bud, let me just a moment before I can open your account. May I have the phone number that is associated to the account? Because with the phone number that you are calling, I couldn't find an account.
+01:21	External	 	Yeah, it's [phone]
+01:46	Internal	 	Okay, may I have your first and last name?
+01:50	External	 	[name]
+01:55	Internal	 	That is your name.
+01:57	External	 	…
+02:02	Internal	 	Okay,
+02:04	Internal	 	thank you Miss [name] Now can you confirm, help me to confirm some information on the account just for security purposes? First of all, may I please have your complete address?
+02:13	External	 	[location] [postal code]
+02:33	Internal	 	Thank you. May I have your place of employment?
+02:37	External	 	[name] Supply.
+02:44	Internal	 	Thank you. And the last time I have your email address,
+02:47	Internal	 	yes?
+02:47	External	 	[user info]
+03:01	Internal	 	Thanks … lot. Thank you so much for damn. Okay, so well, basically, I'm looking here on the account. The balance at this moment is of $309.20 right you have two payments left.
+03:15	External	 	Okay, yeah, but the thing is, is that we bought something for $800 and we're being charged by the end of it, nearly $1800 over $1000 over what we bought. So where is that $1000 going? And why are we being charged?
+03:21	Internal	 	Oh.
+03:35	External	 	That because we cannot view the contract because whenever we download it, it's just an empty pdf that you cannot view.
+03:45	External	 	So that's where I'm trying to figure out where this thousand dollars is going.
+03:50	External	 	It should have been paid off six months ago.
+03:50	Internal	 	Oh yeah, well Miss [name] basically I apologize for that but that $800 was supposed to be paid before November the 3rd 2024 and you didn't. So basically once you doesn't pay that balance before the last date, you will be in the full agreement of the contract but paying a balance more higher. All this information was on your contract
+04:10	Internal	 	also.
+04:11	External	 	Yeah, but we never got the contract that was not explained to us. So the thousand dollars is disappearing to where?
+04:15	Internal	 	Oh well, I can be more than glad to help you to send it right now.
+04:20	Internal	 	So let me just one moment. I will send it right now.
+04:21	External	 	Okay, but it doesn't do any good anymore because the thousand dollars is gone. We were not told that the contract never came through. We thought that what was explained to us was that it would draft out and it would just automatically pay itself off.
+04:39	Internal	 	No, that was not like that. I apologies for that they were supposed to call us also you always have that option to to give us a call to know more information about this account but this is the first time that you call us actually.
+04:52	Internal	 	Okay, so I will send you the contract right now. Send the documents
+04:58	Internal	 	of your contact.
+04:59	External	 	So where does the thousand dollars get?
+05:02	Internal	 	On this.
+05:02	External	 	It just goes straight to you guys, and you just get you just keep it.
+05:06	Internal	 	No, all this all like before this is on your contract, so right, right, once you read the contract, you will,
+05:14	Internal	 	… know basically
+05:16	Internal	 	what happened with the early purchase option that you was having that like I coming before that $800 was supposed to be paid before November the 3rd 2034. So you didn't,
+05:26	Internal	 	you … the full agreement of the contract. I'm sending you the document of your contract.
+05:38	External	 	And on my end, it does not say $300. It says remaining balance is two thirty one. So
+05:45	Internal	 	Oh yeah, that is your pay off balance if you would like to pay off the account today. For example, if you would like to pay … the account today, it is $231.91 But that is just if you would like to pay off the account. It's like a discount for you to pay out the account.
+06:02	Internal	 	So everything is a copy of your … Miss [name]
+06:02	External	 	Okay, so you guys,
+06:07	External	 	so there's just, that's just the way that it is. It's just $1000 more because
+06:14	External	 	it wasn't paid off,
+06:18	External	 	so it's A 100% interest, essentially.
+06:23	Internal	 	… basically, this is now Enter. It's like listing charges.
+06:28	External	 	Late charges, $1000 of late charges.
+06:30	Internal	 	No, listen, listen, charges.
+06:40	External	 	Okay,
+06:41	External	 	so pretty much, it's just a scam.
+06:45	Internal	 	No, because all this information is on the contract, miss.
+06:57	External	 	A contract that we never received. It was supposed to be emailed to us.
+07:00	Internal	 	They … supposed to call us. If you didn't the … you can always call us.
+07:05	Internal	 	Request also that.
+07:12	External	 	Okay, so there's just, that's just it. There's nothing,
+07:22	External	 	so not
+07:24	External	 	okay. Alright, well, that's no help at all, and it's really crappy to do that, but
+07:31	External	 	I guess that's what it is then.
+07:34	Internal	 	Okay, I apologize for this. So, is there anything else I can do you today?
+07:37	External	 	No.
+07:39	Internal	 	Excellent, I hope and thank you for calling. Bye bye.
+
+CONVERSATION 2 :
+00:03	Internal	 	Hello, my name is [name] How can I help you?
+00:06	External	 	… somebody's calling me from this number and I don't know who's calling me calling about if I need help with my.
+00:15	Internal	 	Well, you're calling a kilos at the moment.
+00:19	Internal	 	This is
+00:19	External	 	Yes, somebody calling me from this number and I'm trying to figure out who it is asking me to.
+00:25	External	 	I need assistance with my account. And I don't know anything about more, can you?
+00:31	Internal	 	You don't remember making any account with …
+00:36	External	 	Oh.
+00:38	Internal	 	Well, may I have your first and last name, sir?
+00:41	External	 	I one more.
+00:43	Internal	 	A … okay, let me go ahead and check in my system. If we have records about this. One second.
+01:04	Internal	 	Actually, I can see some records on here from you, Mister. It seems on here that we're having a contract with you.
+01:08	External	 	…
+01:13	External	 	[name] what?
+01:15	Internal	 	It seems here that we're having a contract with you
+01:19	Internal	 	for a red.
+01:19	External	 	…
+01:22	Internal	 	… … two,
+01:25	Internal	 	it Sims on here.
+01:25	External	 	Oh, I have. I told them people took it back to furniture for
+01:32	External	 	I had to have two motors, but only they want no good. And I took it back
+01:41	External	 	[name] for … ats bill I'm … to several people that I don't have it no more.
+01:48	External	 	It … Furniture for less … Banks Ville.
+01:53	Internal	 	It's all you remember is that he already process … paid off of this account
+02:00	External	 	Did I the quote?
+02:03	Internal	 	You said that you already processed a pay off of the account.
+02:07	External	 	I don't have the bike no more. I told them I took it back. I don't have it no more.
+02:13	Internal	 	Oh, so you don't have the bike?
+02:15	External	 	No ma'am, I don't. I … it back where I get it from for furniture for …
+02:22	Internal	 	Understood, so, so you return these bike yourself?
+02:25	External	 	We are working, so
+02:31	External	 	yes, yes, I did.
+02:39	Internal	 	How did you return the bike? …
+02:39	External	 	And I'm on.
+02:42	External	 	Yes sir. Yes ma'am I returned it but I I mean I don't know I'm un told three different people I'm un returned it and I don't know why I keep calling.
+02:53	Internal	 	Directly with … sorry,
+02:57	Internal	 	directly with the store or have, did you return the device? Sorry, I am just wanted to know the information.
+03:00	External	 	Yes, all
+03:05	External	 	my, my nephew [name] took it up there one day. When he's going to work,
+03:15	External	 	he worked it. Pay goes and he took it to where I picked the back up from.
+03:26	Internal	 	I understood
+03:29	Internal	 	well, for the moment, it seems that you, mister all you are still responsible for this account because we don't have any records about that return that I was sent.
+03:29	External	 	Yeah.
+03:40	Internal	 	So?
+03:40	External	 	Okay well right
+03:42	External	 	all I know that Care Wallet is help me someone to port code. I ain't paying nothing else.
+03:42	Internal	 	You have,
+03:48	Internal	 	yes, you'll have to talk to your nephew so we can clear the information, okay?
+03:51	External	 	…
+03:54	External	 	I have done talk to my nephew and he said he returned it
+04:00	External	 	and he I mean that's all he told me he returned the back and I
+04:06	External	 	I don't have it and I'm not paying this now to I wll that back twice and and every time I park it when I back to go somewhere it would never crank back up because I live on dirt road and they could sound was in the motor
+04:24	External	 	I said well I I live on like 5mi … dirt Road … you get to a payment so
+04:31	External	 	that bike wasn't good for me. I bought it to go to my doctor's appointment …
+04:37	External	 	and I couldn't even go but one trip and back home and that and and that's why I had to get another mother and apparently I said I ain't messing with it no more.
+04:49	Internal	 	So you don't have contact with your nephew anymore?
+04:53	External	 	Yes, I have contact. I can give you his phone number.
+04:57	Internal	 	Will be needing him to contact us so they can report the details about the return that he made. Because we don't have any record about that.
+05:09	External	 	Okay, okay. I will call him and tell him to call y'all at this number. I call
+05:12	Internal	 	Because
+05:15	Internal	 	yes, please,
+05:17	Internal	 	Yeah, because this account is under your name, so you're responsible for this account specifically. So yes, basically there is a deb still open on here.
+05:17	External	 	Okay
+05:29	External	 	okay well it it might … stay up because ain't nothing else …
+05:35	Internal	 	Okay, so we better talk to him, okay?
+05:40	External	 	Okay, I will call him now and tell him to call y'all.
+05:44	Internal	 	Sure, it's okay. Well, thank you. Thank you.
+05:45	External	 	Okay.
+05:48	Internal	 	Oh, okay.
+05:48	External	 	Thank you. Bye bye.
+05:49	Internal	 	Okay,
+
+CONVERSATION 3 :
+00:04	Internal	 	Hello, thank you for calling. This is [name] How can I help you?
+00:09	External	 	Yes, sir. Hi, I applied through the f t O website. They told me that I was approved through Breeze for $9000, and I still don't have any emails since Friday.
+00:21	Internal	 	Okay, I'm so sorry about the situation.
+00:22	External	 	To continue the process,
+00:24	External	 	… for the down payment.
+00:26	Internal	 	I'm sorry about the situation. Let me look into it. Can I have your name and last name?
+00:31	External	 	[name] [name]
+00:35	External	 	Last name [name] [name]
+00:39	External	 	[name]
+00:43	Internal	 	Okay, thank you. [name] can I have your email?
+00:47	External	 	[user info]
+00:59	Internal	 	Okay, thank you.
+01:01	Internal	 	May I have your address?
+01:04	External	 	[location] The service address or my mailing address?
+01:08	Internal	 	Your service address for the
+01:12	Internal	 	equipment will be.
+01:13	External	 	Okay, it's [location]
+01:17	External	 	[location]
+01:19	External	 	til
+01:22	Internal	 	Thank you. What is the city, the state, and the zip code?
+01:26	External	 	[location]
+01:27	External	 	[location]
+01:30	External	 	[postal code]
+01:32	Internal	 	Okay, thank you.
+01:38	Internal	 	Okay, what is your place of employment?
+01:42	External	 	… me … … home.
+01:45	Internal	 	Oh, we don't have that information on the application. Can you spell the name for me?
+01:51	External	 	[name] [name]
+01:56	External	 	[name] They found my application yesterday.
+02:00	Internal	 	Okay, sorry about the situation.
+02:04	Internal	 	Okay, I just got the application here.
+02:08	Internal	 	A team.
+02:11	Internal	 	Okay, so your application was approved for $9000. Did you already accept the offer that they sent to you loan f.
+02:17	External	 	I don't have an email.
+02:19	External	 	I don't have an email.
+02:21	External	 	Nobody has sent me anything, so I'm waiting.
+02:25	Internal	 	Okay, I'm so sorry about the situation.
+02:26	External	 	That's why I'm calling.
+02:28	Internal	 	Yeah, I'm gonna be.
+02:31	Internal	 	Let me see the memory … this.
+02:34	Internal	 	Yeah, this time there is no contract created loan, so basically, you will need to get in contact with FL so they can send you the offer to your email, right
+02:45	Internal	 	and then you will receive the the offer
+02:46	External	 	What's their numbers, sir?
+02:49	Internal	 	You will need to as the offer so they can continue Right, to create the list for you and send it through your email so you can electronically.
+02:54	External	 	Well.
+03:00	Internal	 	Review the contract, right? Make sure that you are agree with the terms and conditions and then you will electronically sign the contract and then you will get a down payment link. The down payment is based on.
+03:11	External	 	Sir, I understand all that. What I'm trying to tell you is that I don't have an email or anything from F Tl
+03:19	External	 	telling me to accept the offer. They haven't sent me anything.
+03:24	External	 	That's what I'm trying to tell you.
+03:26	Internal	 	I understand that part. So, when was the last time that you spoke to them?
+03:31	External	 	I applied on Friday.
+03:34	Internal	 	Okay, did they give you any details about equipment, any price estimated or something?
+03:41	External	 	No, sir, they just told me I was approved to Breeze for $9000 and for me to go to back to their website, but it doesn't
+03:49	External	 	allow me to do anything on the website.
+03:52	Internal	 	Okay, I'm sorry about the situation. Let me.
+03:53	External	 	They just says like reapply.
+03:56	Internal	 	Okay, that's weird. I'm sorry about the situation. Well, your application is already. Let me look into this. Can I place you on hold?
+04:03	External	 	Sure.
+04:04	Internal	 	Give me one moment. … on
+04:11	Internal	 	Okay, thank you for the time waiting on the line. I'm sorry for … long wait. Yeah, what … doing This information on my end and it sees you will need to get in contact with FL so they can send you the estimated right for the project.
+04:14	External	 	Okay,
+04:15	External	 	that's okay.
+04:28	Internal	 	Right, the price, the quote, whatever, and then you can accept the offer. And then right, let me see [sensitive data]
+04:31	External	 	Okay, what's their number?
+04:41	Internal	 	[sensitive data]
+04:41	External	 	Okay.
+04:45	Internal	 	[sensitive data] So let me repeat the number again.
+04:49	External	 	Is there a reference number, case number or something? I can refer to
+04:54	External	 	approval number or something.
+04:54	Internal	 	No just let just just let them know that you have this approve application and you want to proceed and you have spoken to [name] and we gave you this number.
+05:06	External	 	Okay, I'll call them right now. Thank you for your help.
+05:09	Internal	 	You're welcome. Any other question about your application, okay? You might receive a go over to a customer service, okay?
+05:13	External	 	No, sir.
+05:21	External	 	Okay, thank you.
+05:22	Internal	 	You're welcome. Yeah, another question before you. Before we hang up. What was your employment again? I said what, sorry.
+05:30	External	 	You're … home.
+05:32	Internal	 	… home.
+05:34	External	 	Funeral
+05:35	External	 	… funeral home.
+05:36	Internal	 	Oh, okay. I got it. Sorry.
+05:39	Internal	 	Alright, any other questions? Sorry about the situation?
+05:43	External	 	No, sir, you're fine. Thank you.
+05:44	Internal	 	Thank you for calling Grace. Have a wonderful day.
+05:46	External	 	Huh, bye bye.
+
+CONVERSATION 4:
+00:03	Internal	 	Good morning, thank you for choosing [name] speaking.
+00:07	External	 	Speaking, thanks for choosing who?
+00:10	Internal	 	Okay.
+00:12	External	 	Speaking, [name] who?
+00:14	Internal	 	… this is [name]
+00:18	External	 	Okay why you … saying that choosing who part what?
+00:23	Internal	 	I said, thank you for choosing … This is [name] speaking.
+00:26	External	 	I don't understand what that first part was. Again, what is this again? What is about?
+00:32	Internal	 	Okay, so the name of the company is oka Where the leasing company, are you familiar with? Oka?
+00:39	External	 	No ma'am. Hello, how are you?
+00:41	Internal	 	I'm doing great. Thank you for asking. Are you familiar with Ultimate Furniture and Metric Warehouse?
+00:46	External	 	Yeah.
+00:47	Internal	 	Yes, ma'am. We're the leasing company for them. I was calling to update your account because of the April 11th payment returned.
+00:54	External	 	Okay, April 11th. That's probably because I think I, what, what day did I get paid on?
+01:01	External	 	Let me check now.
+01:03	Internal	 	No problem.
+01:04	External	 	I'm putting you on speaker one second.
+01:06	Internal	 	Okay, no problem.
+01:08	Internal	 	And also, Miss [name] I do wanna let you know the call is recorded and monitored. And while I have you on the line, may you verify the home address and email for verification purposes?
+01:15	External	 	Yeah
+01:20	External	 	I don't know what email I got cause I got some emails Which one that I have
+01:23	Internal	 	We have the Gmail.
+01:24	External	 	Which one I have two, so which one do you have?
+01:27	Internal	 	Yes, ma'am. So now with with verifying it you can just give me the ones you have and I can tell you the one we got on file.
+01:35	External	 	Okay, my address is [location]
+01:39	External	 	and I don't know if you get the let it, I don't know which one you have.
+01:42	Internal	 	Yes, ma'am. We have the … [name]
+01:44	External	 	Okay, that's my business one that the one you have.
+01:47	Internal	 	Yes, ma'am. What about the place of employment?
+01:50	External	 	Happy at home.
+01:52	Internal	 	Yes, ma'am. Thank you for verifying that information for me.
+01:55	External	 	Okay I I think it probably clash because my what's name is due my internet is due on the 8th, so it probably just slashed off
+02:07	External	 	at all.
+02:09	External	 	It probably slashed off
+02:13	External	 	because my internet bill is due. That's probably what happened. So what I need to do go up to the office and pay the how much do the how much to do
+02:22	Internal	 	Okay so to take care of the [card expiry date] payment and the return fee it'll be $99.78 we can schedule it with the checkings account on file and again [card number] Or we can use the debit card that's on file. I'm sorry, the Mastercard end again [card number] Whichever you prefer.
+02:39	External	 	I'm not gonna have anything on that card until
+02:43	External	 	the [card expiry date] so I think I have eighty something dollars on another card,
+02:51	External	 	so that wouldn't be now.
+02:53	External	 	[card number]
+02:56	External	 	…
+02:58	External	 	I thought my bill was eighty something dollars. That's what, because it's late.
+03:01	Internal	 	No ma'am, now technically the regular payment is only $69.78 but being that you had a payment to return it cost a $25 return fee on the account plus a $5 reinstatement fee so that's why it's the ninety nine seventy eight
+03:16	External	 	But it was ninety something dollars the first time I took off my card within a week of me
+03:20	External	 	paying the six hundred some dollars. Ya took ninety some dollars off my card a week later at the box of Francis.
+03:26	Internal	 	Yes ma'am because you have a one time documented process a fee of $22.05 that was added to your regular payment so was for $91.83
+03:37	External	 	Okay, I do nothing in the contract to see if that, and then y'all took the $97 in next week too.
+03:40	Internal	 	Oh yes ma'am, it's listed on the first page contract.
+03:43	External	 	Okay I hear what you're saying no no no no you know I didn't sit there in that front the store I said he he sit there for been at three hours
+03:50	External	 	and it should have s three hours to get no furniture but yeah so you know I didn't sit there and read that whole contract and that whole thing I to sit there for three hours trying to get approved and I got approved four thousand, but I still pay $650. But you know [location] to trying to get approved for three hours. You know, the whole thing after to sitting there for three hours
+04:09	External	 	first and foremost, second of all, let's pull up further than that. Y'all cut ninety some dollars after I pay for $50 the next week,
+04:16	External	 	… put me behind on my internet bill, which is the reason why they run together now
+04:22	External	 	… they didn't supposed to run together has I … ninety some dollars then next week and I thought I was … have to pay the $97 in next month
+04:29	External	 	and I didn't. … … it the next week that to make some bills have to run together now.
+04:36	External	 	I don't think they speak.
+04:36	Internal	 	Yes, ma'am,
+04:38	Internal	 	and I do apologize for the inconvenience. Now, as far as the regular payment with the one time documented processing fee. And I understand you stated that you know, you didn't have time to read the contract. But the information was listed on the contract.
+04:53	Internal	 	And then I go ahead. I'm sorry.
+04:53	External	 	What, what I'm saying is what I'm trying to get … is if I paid for the furniture that month,
+05:00	External	 	why would I have to pay that bill that month too.
+05:04	Internal	 	Okay, so your first payment was in March. That's the only payment that you was due for. Now, whatever you paid at the store is between you and the store. We only go by the contract that they send over to.
+05:16	External	 	Okay I I hear what you're saying that the payment I paid in the store was six fifty
+05:22	External	 	that was my bill for that month, I thought
+05:26	External	 	and y'all turn around a second. I got the front of the house then next week can took ninety something dollars.
+05:31	Internal	 	Yes, ma'am. So what I'm guessing you did because you say that you paid six fifty at the store.
+05:37	External	 	Yeah, … the six fifty seven fifth.
+05:37	Internal	 	So what they did,
+05:39	Internal	 	yeah, so basically, what they did, they just took that off of your cash price. They only sign in your cash price of $350.
+05:48	External	 	I got a receipt right here in my first bed.
+05:55	Internal	 	Cause I'm looking at the initial dial payment that you made was $55.07
+06:01	External	 	No beg its right …
+06:04	Internal	 	Yeah, that's what I'm saying. So, if you made a payment at the store that was between you and the store, what they did was probably took it off and sent over just the remaining balance that you had to pay, which was the $350.
+06:19	Internal	 	Well, of course along with that three fifty you have an early payoff fee which is $59.95 and of course the total sales tax on the account was $42.02
+06:30	External	 	See, it's a cash amount down here. $600.
+06:34	Internal	 	Okay, well, the cash price that we got was six fifty. I'm sorry, three fifty. I'm sorry, it was $350. Your cash price was $350. That's the
+06:44	Internal	 	… the lease agreement.
+06:44	External	 	… how much they trying to pay at all
+06:47	Internal	 	Right now, you only owe $410.14 and then
+06:50	External	 	I don't … … $100 booking.
+06:53	Internal	 	Ma'am, it's included in your April 11th payment
+06:57	Internal	 	not had due … care of the April 11th payment. It'll go down a bit, but this fourteen fourteen includes the $25 return fee, the $5 late fee and of course the $69.78 that was technically due for April 11th.
+07:10	External	 	Okay, listen,
+07:12	External	 	I'm sorry, when I left your store, I mean, when I left the store, I owed it $300. I mean 200 and
+07:19	External	 	the … was $100
+07:22	External	 	and I paid $650.
+07:25	External	 	I mean, I forgot it was $950
+07:28	External	 	again.
+07:29	External	 	And if I pay $600.
+07:31	Internal	 	Alright, they'll left you with the three fifty.
+07:34	External	 	Exactly, that's how much I owe it three fifty.
+07:36	Internal	 	Right, but like I was just explaining to you, the cash price was sent over for three fifty
+07:41	Internal	 	your early purchase option of a 90 days you have a 90 day pay off fee which was $59.95 and the total sales tax on the account was $42.02
+07:52	Internal	 	Now at this time only one payment has been made because you're April the 11th payment, which would have been your second payment returned.
+08:03	External	 	…
+08:04	External	 	okay, so if I pay this
+08:07	External	 	bill, you're speaking of today because you all double charged me in one week, which I did not understand. I mean, how that even went
+08:17	External	 	if I pay this bill in the next couple of days,
+08:22	External	 	how much do I owe ya there
+08:25	External	 	cause I don't see how I I'm gonna owe you extra money if I paid him
+08:30	External	 	$600.
+08:31	Internal	 	Right, you stated for yourself that the cash price was nine something, correct?
+08:35	External	 	Correct, just on the receipt.
+08:36	Internal	 	Okay,
+08:37	Internal	 	and you stated that you gave him six something at the store?
+08:40	External	 	Correct, that's on a receipt.
+08:42	Internal	 	Right, so that's why they signed up with the cash price of the three fifty.
+08:46	Internal	 	But along with the cash price, you have the taxes and the fees. And only one payment has been made so far. So that's why it looks like you haven't paid anything because you still have that payment to take care of for April the 11th.
+08:46	External	 	Huh,
+09:00	External	 	okay. If I pay in the next couple of days?
+09:04	Internal	 	Okay, so let's see. You do on the 11th.
+09:05	External	 	How much would I owing?
+09:10	External	 	I … he's reading.
+09:11	Internal	 	I'm calculating it for you.
+09:24	External	 	Okay.
+09:24	Internal	 	14.
+09:26	External	 	$845.
+09:28	Internal	 	Alright, if you go ahead and take care of the payment for the $99.78 that's gonna leave you with a balance of $310.36
+09:35	Internal	 	And you'll have until June 8th to have the account closed out completely before you actually enter into the full release agreement.
+09:42	External	 	I'm trying to see how do I owe that much if I only owed three something when I left the store.
+09:49	Internal	 	Okay, like I advised you, you have a cash price of $350
+09:54	Internal	 	plus your $59.95 payoff fee and the total sales tax which was $42.02 that brought your balance of $451.97 you've only made one regular payment which is $69.78
+10:13	Internal	 	Now being that you had a payment to return, we had to add an additional $25 plus the $5 reinstatement fee that's technically $412.19 that you owe but we giving you the option to pay the fourteen fourteen that is the complete balance as of to date now the only thing that you're responsible for at this time is your April the 11th payment
+10:33	Internal	 	because that's the payment they returned
+10:37	Internal	 	which is the $99.78 that includes all taxes and fees for April the 11th.
+10:48	Internal	 	Do you have a copy of your original lease agreement or do you just have the stores copy … I can send you a copy of the full lease agreement that you signed.
+10:56	External	 	Could just send in my email, please.
+10:58	Internal	 	Yes, ma'am. Let me go ahead and get that … over to you now … I know you stated you didn't read it, so I do understand.
+11:03	External	 	I was in the store for 3 hours. Just trying to get 1 bed, and that was outside. I already picked my bed and I was sending in there for three hours trying to get this stuff to go through.
+11:10	Internal	 	Yeah and that's that's that's the weird part about it cause technically you signed the contract first before you even do all of that but I'm gonna to go ahead and send it to you.
+11:16	External	 	Yeah,
+11:19	External	 	maybe our system was down. Their system was down and I went to two different companies trying to get through to ya system It was a whole bunch of mess. I was sitting there for three hours.
+11:25	Internal	 	…
+11:33	External	 	I would have never agreed to pay an extra $500 and some change more than with the fricking bill. Was actually freaking worse. I don't want with the one that was $500. One had to pay that right out right then.
+11:43	Internal	 	If you can check your email for me, miss, let I went ahead and sent you that lease agreement. We can go through it together just in case you don't understand. I can answer any questions or concerns for you.
+11:51	External	 	That's ridic
+11:55	External	 	… this one … d right now I'm feeling … away
+12:02	External	 	I do not like it. I do not like it at all
+12:39	External	 	and don't see, I don't like this $350. I get stop
+12:42	External	 	that's really upset me and I know I left it. It was six hundred some dollars. That's really upset me right there in itself.
+12:47	Internal	 	Right, but you stated that altogether. It was nine something. So if you're paying six something that is gonna leave you with a balance of three something.
+12:55	External	 	I'm trying to see how if I pay six.
+12:58	Internal	 	Ma'am, you stated for yourself that the merchandise was not. How much was the merchandise? Nine, how much?
+13:04	External	 	Fifty.
+13:06	Internal	 	Nine fifty right?
+13:08	External	 	Huh.
+13:08	Internal	 	How much did you pay him at the store?
+13:11	External	 	Fix that.
+13:12	Internal	 	Do you remember the exact amount?
+13:14	External	 	It's on the receipt. It's rang in my bank in my first.
+13:17	Internal	 	Okay, so how much did you give him?
+13:20	External	 	…
+13:21	Internal	 	Six hundred even
+13:25	Internal	 	if you gave him 600 even, that leaves you with $350.
+13:30	External	 	… I gave them 600. I gave him 600 email.
+13:30	Internal	 	Your cash price,
+13:32	Internal	 	yes ma'am. And they sign a cash price open for $350
+13:38	Internal	 	along with the three fifty. You have the $59.95 early purchase payoff fee and the total sales tax $42.02
+13:47	Internal	 	that was a total of $451.97
+13:48	External	 	Oh.
+14:03	Internal	 	If it was nine fifty and you gave him six, that leaves you with three fifty
+14:08	External	 	Okay,
+14:22	External	 	alright, I see it.
+14:26	Internal	 	Okay now for is the $99.78 what's a good day to have that payment scheduled for you?
+14:33	External	 	It'll be done by Friday.
+14:35	Internal	 	Friday the twenty fifth.
+14:37	External	 	Yeah, … pay …
+14:38	Internal	 	Will you be using the checkings account ending in [sensitive data] or a debit card
+14:43	External	 	I don't know. It's going to be one in debit card. I'm not sure. Can I go in store and pay it?
+14:47	Internal	 	No ma'am, you made all of your payments through …
+14:51	External	 	Okay.
+14:54	Internal	 	Okay, so will it be the Mastercard ending in [card number] or the checkings account on file
+14:55	External	 	Alright,
+14:59	External	 	I'm not sure which one you want to call me back by [card expiry date]
+15:03	External	 	and we can go from there.
+15:03	Internal	 	Okay, I Okay, I notate the account to give you a call on Friday, which is the 25th. And that way we can go ahead and set up some arrangements on the account, okay?
+15:11	External	 	Alright, thank you so much. Could you call me after one hour work?
+15:13	Internal	 	No
+15:15	Internal	 	okay that that's no problem I can give you a call … the one it's currently 11:39AM I'm on Eastern Standard Time.
+15:22	External	 	Alright, thank you so much.
+15:23	Internal	 	No problem, thank you for choosing … You have a good day.
+15:26	External	 	You too,
+15:37	External	 	yeah, they added on them taxes, and I'm trying to see how to hit. They get ninety some dollars what …
+15:43	External	 	fee and $22 late fee I see it now.
+15:47	External	 	Yeah, I didn't see none of that, honey. I was in … so too long baby I won't feeling net
+15:52	Internal	 	Yes, ma'am.
+15:52	External	 	I was definitely messed up. Too long. Oh, I'm sorry. … know you still on the phone. I was reading.
+15:56	Internal	 	Oh yeah, I thought … … talking to me. I'm sorry.
+15:58	External	 	And I … … my my client
+16:00	Internal	 	Oh, okay. Okay. So you done? I didn't wanna hang up on you because I heard you talk … I'm sorry.
+16:05	External	 	Oh no, that's fine. Now I was just, I was reading. I was reading the lease. It's fine. Thank you so much. I will. I will talk to you for.
+16:09	Internal	 	Okay,
+16:11	Internal	 	no problem.
+16:13	Internal	 	No problem. Thank you for choosing … You have a good day.
+16:15	External	 	Bye bye, you too.
+
+CONVERSATION 5:
+00:04	Internal	 	Hello, thank you for calling. This is [name] How can I help you today?
+00:08	External	 	I wanted to get some information about my account, The balance.
+00:12	Internal	 	Sure, give me just one moment. So, can I pull up the account?
+00:15	External	 	Huh,
+00:22	External	 	…
+00:23	Internal	 	One moment.
+00:29	Internal	 	Okay, can you please tell me your first and last name?
+00:32	External	 	[name] [name] [name] [name]
+00:40	Internal	 	I'm sorry, ma'am, is it? I can hear you?
+00:46	External	 	[name] [name]
+00:52	External	 	Last name is [name] [name] [name]
+00:57	Internal	 	Okay, thank you, ma'am. And can you please tell me your physical address?
+01:02	External	 	[location] [GEO] [postal code]
+01:10	Internal	 	I'm sorry, it again, please.
+01:14	External	 	I am speaking loud as I can, ma'am. I don't want the whole public to hear my address and everything, so again, it's [location]
+01:30	External	 	Can you hear me?
+01:31	Internal	 	Yes, the city and the zip code, please.
+01:35	External	 	[location] [postal code]
+01:47	Internal	 	Thank you, and your email address?
+01:51	External	 	[user info]
+02:08	Internal	 	Thank you, and the name was for a place of employment.
+02:13	External	 	[location]
+02:18	Internal	 	Thank you, Miss [name] How can I help you, ma'am?
+02:22	External	 	So I already asked, told you how you can help me after you asking 10 questions. I'm sorry to get an attitude, but you asked your questions and you didn't even wonder what mine was. I listen to mine. I need the balance on my account, please.
+02:37	Internal	 	Sure mam. I'm sorry this was only for verification process. So this account is by the full lis agreement. So you have made 13 payments already out of the 17 payments they have a scheduled so you have missing four payments left back so you can complete the balance that is six hundred and ninety with eight cents
+03:03	External	 	And what will? Okay, go ahead.
+03:03	Internal	 	So
+03:06	Internal	 	I'm sorry, so basically.
+03:06	External	 	Cause I thought I thought it was supposed to be finished in December.
+03:12	External	 	A payment for the account. I thought that the balance was supposed to be completed in December.
+03:13	Internal	 	I'm sorry,
+03:22	Internal	 	remember Miss [name] First of all, that you didn't complete the balance in the early purchase option.
+03:28	Internal	 	So this was already expired since last year by July. So you didn't complete the balance. And this account passed by the full lease agreement with all the payments by the normal contract that you signed.
+03:41	External	 	So what was the balance before? In, in whatever July. What was it at that time?
+03:47	Internal	 	Well, first of all the balance we have in is that you had in this early for this option let me calculate it
+03:56	Internal	 	… forty nine ninety five
+04:03	Internal	 	okay so your initial balance by the early purchase option was $1194.48
+04:12	External	 	Okay
+04:14	External	 	so now … its April what did that take my balance to
+04:21	Internal	 	I'm sorry.
+04:23	External	 	Now that it's April, what did it take my balance to? Like it's exceeded that amount of time. So what, what, what's the balance now? Like,
+04:33	Internal	 	What happened, miss? … you mean that remember that you were in this early purchase option without the leasing fees, so you didn't complete the early purchase option. … already expired. Unfortunately, you didn't complete the balance.
+04:45	Internal	 	So this account passed by the full lias agreement with the normal contract that you signed. With the leasing fees
+04:53	Internal	 	by the normal contract.
+04:53	External	 	You keep,
+04:56	External	 	I hear you. I heard you say that. Okay, and somehow another the communication was wrong or missed up, and I missed that appointment. I missed that. Okay, so I understand that December I did not complete it. So what is the balance now? Like, what is the complete balance now? That has that I have to pay?
+05:17	Internal	 	Your balance is six hundred and ninety with eight cents six hundred and ninety with eight cents You are missing four more payments.
+05:18	External	 	For the whole thing,
+05:25	External	 	okay so the $1194 plus six ninety
+05:33	Internal	 	I'm sorry.
+05:36	External	 	Let me try to figure it out. Hold on, because I don't know if you can't understand me. If I'm not able to speaking.
+05:40	Internal	 	Everything is in the contract, Miss … I can send you a copy of the list.
+05:43	External	 	I don't have it with me. I don't have it with me right now, ma'am. I mean, gosh,
+05:50	External	 	I don't, don't. Yeah, send me the contract again, please.
+05:53	Internal	 	Sure,
+05:54	Internal	 	give me one moment.
+05:54	External	 	Yeah.
+05:56	Internal	 	Everything is in the country, miss … You didn't complete the early for your … normally the account pass by the full lias agreement by the normal contract that you signed.
+06:03	External	 	Girl, you don't have to keep telling me that I've heard you 4 times. I keep saying that too.
+06:09	Internal	 	So we can understand better of the situation, miss. So give me one moment. So, can I send you the contract?
+06:28	Internal	 	Okay, I already sent the contract, ma'am. That's where it shows all the payments about the leasing fees. So basically, you're missing for more payments, so you can complete your balance.
+06:41	External	 	Alright,
+
+
+
